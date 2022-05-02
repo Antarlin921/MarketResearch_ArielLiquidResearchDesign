@@ -1,0 +1,46 @@
+QUESTIONAIREE:
+
+1.HOW DO YOU WASH YOUR CLOTHES?
+a.WASHING MACHINE
+B.HAND WASHING
+
+BRAND AWARENESS:
+1.DO YOU USE DETERGENT POWDER OR LIQUID DETERGENT?
+
+2.HAVE  YOU USED ARIEL LIQUID ?
+a.yes
+b.no
+c.not heard of it
+
+4.WHAT IS YOUR PREFFERED BRAND FOR LIQUID DETERGENT?
+A.ariel liquid
+2.surf excel liquid
+c.name the brand you use
+
+3.WHICH BRAND  LIQUID DETERGENT DO YOU CURRENTLY USE?
+a.ariel liquid 
+b.surf excel liquid
+c.name the brand you use
+
+4.IF THE PREFFERED BRAND AND BRAND IN CURRENT USE ARE NOT SAME,WHAT IS THE REASON OF THE SHIFT?
+
+PRODUCT EVALUATION:
+THIS IS FOR ALL THOSE PEOPLE WHO ARE USERS OF ARIEL LIQUID
+1.ON  A SCALE OF 1-10,HOW MUCH  WOULD YOU REFER ARIEL LIQUID TO OTHERS?(THIS TO JUDGE LIKEABILITY?)
+[0 BEING NOT REFERRING AT ALL,10 BEING THE MOST REFERRED]
+2.RANK BRANDS ACCORDING TO YOUR PREFERENCE.[FROM HERE THE TOP RANK IS THE MOST LIKED BRAND ACCORDING TO THE CUSTOMER(SPONTANEOUS LIKING)]
+
+INDIVIDUAL PRODUCT ATTRIBUTES:
+1.do you like the appearnace of the liquid?(rate on a scale of 1 to 7 , 7 being the best and 1 being worst)
+2.do you like the colour of the liquid?
+answer in yes or no
+if you dont like the colour of the detergent,mention your colour prefernces
+3.do you like the fragrance of the detergent?(rate on a scale of 1 to 7 , 7 being the best and 1 being worst)
+4.rate the dirt removability capacity of the detergent.(rate on a scale of 1 to 7 , 7 being the best and 1 being worst)
+5.is the detergent too harsh on hands?(rate on a scale of 1 to 7,1 being the least harsh and 7 being the most harsh)
+6.does it maintain the colour of the clothing?(rate on a scale of 1 to 7 , 7 being the best and 1 being worst)
+
+PURCHASE INTENTION:
+would you like to buy it again?(rate on a scale of 1 to 5 ,1 being the least interest to buy and 5 being the highest interest to buy)
+
+
